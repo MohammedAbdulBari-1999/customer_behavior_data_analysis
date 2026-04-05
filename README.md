@@ -1,4 +1,4 @@
-#👨‍💻 Customer Behavior Data Analysis
+👨‍💻 Customer Behavior Data Analysis
 📌 Project Overview
 
 In this project, I worked on analyzing customer shopping behavior using a retail dataset containing around 3900 transactions. The main objective was to understand how different factors like customer demographics, product categories, discounts, and subscription status affect purchasing patterns.
